@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435411039712",
+    "project_id": "qr-scan-face-demo",
+    "storage_bucket": "qr-scan-face-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435411039712:android:0f894886b12f1022d52785",
+        "android_client_info": {
+          "package_name": "com.example.qr_scan_face_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkvT9YL5mq7uxPW8sOUxEn7dtyOQhLpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
